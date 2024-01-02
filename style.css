@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Broken+Fax&family=Rubik+Glitch&display=swap');
 
 
-.title {
+.title, .subtitle {
   font-family: "Rubik Broken Fax", sans-serif;
   font-size: 80px;
   font-weight: 400;
@@ -11,9 +11,9 @@
 }
 
 .subtitle {
-  font-family: "Rubik Broken Fax", sans-serif;
   font-size: 40px;
   font-weight: 300;
+  background-color: rgb(220, 132, 65);
 }
 
 .recipes {
