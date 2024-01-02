@@ -37,7 +37,7 @@
   margin-right: auto;
 }
 
-ul {
+ul, ol {
   background-color: rgb(241, 219, 202);
   display: table;
   margin: 0 auto;
