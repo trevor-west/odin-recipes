@@ -11,9 +11,11 @@
 
 .recipes {
   font-family: "Rubik Glitch";
-  text-align: center;
+  font-weight: 200;
+  font-size: 20px;
 }
 
 ul {
-  list-style-position: inside;
+  display: table;
+  margin: 0 auto;
 }
