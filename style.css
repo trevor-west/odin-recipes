@@ -19,7 +19,7 @@
   background-color: rgb(220, 132, 65);
 }
 
-.recipes {
+.recipes, .recipes button {
   font-family: "Rubik Glitch";
   font-weight: 200;
   font-size: 20px;
@@ -45,10 +45,19 @@ ul, ol {
   margin: 0 auto;
 }
 
-ul li {
+ul li a {
   color:white;
   display: inline-block;
-  padding: 20px;
+  margin: 10px;
+  padding: 10px;
+}
+
+ul li {
+  color: white;
+}
+
+ul li a:hover {
+  background-color: rgb(194, 84, 0);
 }
 
 h3.recipes {
