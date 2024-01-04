@@ -13,6 +13,10 @@
   background-color: rgb(194, 84, 0);
 }
 
+.title {
+  margin: 0 auto;
+}
+
 .subtitle {
   font-size: 40px;
   font-weight: 300;
