@@ -58,7 +58,7 @@ ul li {
   color: white;
 }
 
-ul li a:hover {
+ul li a:hover, a:hover {
   background-color: rgb(194, 84, 0);
 }
 
