@@ -15,6 +15,7 @@
 
 .title {
   margin: 0 auto 20px auto;
+  width: 100vw;
 }
 
 i.fa-regular.fa-lightbulb {
@@ -26,6 +27,7 @@ i.fa-regular.fa-lightbulb {
   font-size: 40px;
   font-weight: 300;
   background-color: rgb(220, 132, 65);
+  width: 100vw
 }
 
 .recipes, .recipes button {
