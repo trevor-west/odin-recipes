@@ -17,6 +17,10 @@
   margin: 0 auto;
 }
 
+i.fa-regular.fa-lightbulb {
+  background-color: white;
+}
+
 .subtitle {
   font-size: 40px;
   font-weight: 300;
