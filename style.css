@@ -52,6 +52,7 @@ button.light {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 400px;
 }
 
 ul, ol {
