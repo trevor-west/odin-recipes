@@ -63,3 +63,7 @@ ul li a:hover {
 h3.recipes {
   font-size: 30px;
 }
+
+p, h3, h4, ol li {
+  color: white;
+}
