@@ -43,8 +43,10 @@
 ul, ol {
   display: table;
   margin: 50px auto;
+}
+
+.list-spacing {
   width: 800px;
-  
 }
 
 ul li a {
