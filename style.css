@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Broken+Fax&family=Rubik+Glitch&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Broken+Fax&family=Rubik+Glitch&display=swap');
 
+* {
+  background-color: black;
+}
 
 .title, .subtitle {
   font-family: "Rubik Broken Fax", sans-serif;
@@ -38,7 +41,6 @@
 }
 
 ul, ol {
-  background-color: rgb(241, 219, 202);
   display: table;
   margin: 0 auto;
 }
