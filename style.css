@@ -22,6 +22,11 @@ i.fa-regular.fa-lightbulb {
   font-size: 50px;
 }
 
+button.light {
+  width: 100px;
+  margin: 0 auto;
+}
+
 .subtitle {
   font-size: 40px;
   font-weight: 300;
@@ -43,7 +48,7 @@ i.fa-regular.fa-lightbulb {
   width: auto;
 }
 
-.img-center {
+.block-center {
   display: block;
   margin-left: auto;
   margin-right: auto;
